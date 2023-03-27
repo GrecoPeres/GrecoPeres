@@ -29,4 +29,4 @@ Desenvolvedor front-end criativo com mais de 5 anos de experiência em empresas 
   
 </div>
   
-  ![Snake animation](https://github.com/BrunoEijiMine/BrunoEijiMine/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/GrecoPeres/GrecoPeres/blob/output/github-contribution-grid-snake.svg)
