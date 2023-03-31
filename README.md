@@ -1,6 +1,6 @@
 ## Opaa, eu sou o <b>Greco</b> Fernando de Macedo <b>Peres</b>, amante da tecnologia e programação!
 
-Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas e startups. Conhecimento em HTML, CSS, JavaScript, PHP, MySQL, Laravel, CodeIgniter e React. Apaixonado por desenvolvimento!
+Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas e startups. Conhecimento em HTML, CSS, JavaScript, PHP, MySQL, Laravel, CodeIgniter. Apaixonado por desenvolvimento!
 
 
 <div>
