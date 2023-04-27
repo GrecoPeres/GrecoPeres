@@ -1,4 +1,4 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Olá!%20Eu%20sou%20o%20Greco%20Peres!&fontAlign=48&fontAlignY=51&color=gradient)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Olá!%20Eu%20sou%20o%20Greco%20Peres!&fontAlign=38&fontAlignY=51&color=gradient)
 
 ## Opaa, eu sou o <b>Greco</b> Fernando de Macedo <b>Peres</b>, amante da tecnologia e programação!
 
