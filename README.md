@@ -2,8 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Greco+Fernando+de+Macedo+Peres;Tenho+21+anos;Moro+em+Barretos+-+SP;Sou+graduando+do+curso+Sistemas+de+Informação+UNIFEB;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
 
-## Opaa, eu sou o <b>Greco</b> Fernando de Macedo <b>Peres</b>, amante da tecnologia e programação!
-
 Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas e startups. Conhecimento em HTML, CSS, JavaScript, PHP, MySQL, Laravel, CodeIgniter. Apaixonado por desenvolvimento!
 
 
