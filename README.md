@@ -35,4 +35,5 @@ Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas 
 <p align="center"><img align="center" src="https://profile-counter.glitch.me/{GrecoPeres}/count.svg" /></p> 
 <br>
 </div>
-  
+
+![Snake animation](https://github.com/GrecoPeres/GrecoPeres/blob/output/github-contribution-grid-snake.svg)
