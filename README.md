@@ -19,6 +19,14 @@ Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas 
   	<img align="center" alt="GrecoPeres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
   	<img align="center" alt="GrecoPeres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
+
+<div style="display: inline_block"><br>
+	<picture>
+	    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/CatsJuice?format=svg&weeks=50&dark=true">
+	    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/CatsJuice?format=svg&weeks=50">
+	    <img alt="" src="https://ssr-contributions-svg.vercel.app/_/CatsJuice?format=svg&weeks=50" max-height="150">
+  	</picture>
+</div>
   
 ##
 
