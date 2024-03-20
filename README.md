@@ -21,11 +21,7 @@ Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas 
 </div>
 
 <div style="display: inline_block"><br>
-	<picture>
-	    <source media="(prefers-color-scheme: dark)" srcset="https://ssr-contributions-svg.vercel.app/_/CatsJuice?format=svg&weeks=50&dark=true">
-	    <source media="(prefers-color-scheme: light)" srcset="https://ssr-contributions-svg.vercel.app/_/CatsJuice?format=svg&weeks=50">
-	    <img alt="" src="https://ssr-contributions-svg.vercel.app/_/CatsJuice?format=svg&weeks=50" max-height="150">
-  	</picture>
+	<img src="https://contribution.catsjuice.com/_/GrecoPeres?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=30&theme=green&dark=true">
 </div>
   
 ##
