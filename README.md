@@ -20,10 +20,9 @@ Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas 
   	<img align="center" alt="GrecoPeres" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
 </div>
 
-<div style="display: inline_block"><br>
-	![Visualização de contribuições](https://contribution.catsjuice.com/_/GrecoPeres?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=30&theme=green&dark=true)
 
-</div>
+![Visualização de contribuições](https://contribution.catsjuice.com/_/GrecoPeres?chart=3dbar&gap=0.6&scale=2&flatten=0&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&weeks=30&theme=green&dark=true)
+
   
 ##
 
