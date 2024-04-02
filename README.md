@@ -4,7 +4,7 @@
 
 Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas e startups. Conhecimento em HTML, CSS, JavaScript, PHP, MySQL, Laravel, CodeIgniter. Apaixonado por desenvolvimento!
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrecoPeres&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GrecoPeres&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrecoPeres&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GrecoPeres&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=049feb&fire=049feb&currStreakNum=fff&sideNums=049feb&currStreakLabel=049feb&sideLabels=fff&dates=fff) |
 | :-: | :-: |
 
 <div>
