@@ -39,4 +39,4 @@ Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas 
 <br>
 </div>
 
-![Snake animation](https://github.com/GrecoPeres/GrecoPeres/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/GrecoPeres/GrecoPeres/blob/output/github-contribution-grid-snake.svg)
