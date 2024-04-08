@@ -1,8 +1,12 @@
-![waving](https://capsule-render.vercel.app/api?type=waving&height=200&text=Olá!%20Eu%20sou%20o%20Greco%20Peres&fontAlign=50&fontAlignY=40&color=gradient&fontSize=60)
+![waving](https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00b8e4&size=35&center=true&vCenter=true&width=1000&lines=Meu+nome+é+Greco+Fernando+de+Macedo+Peres;Tenho+22+anos;Moro+em+Barretos+-+SP;Sou+graduado+do+curso+Sistemas+de+Informação+UNIFEB;Bem+-+Vindo!+:%29)](https://git.io/typing-svg)
+<h1 align="center">
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Greco!;tenho+22+anos;moro+em+Barretos+SP;" />
+</h1>
 
+<div align="center">
 Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas e startups. Conhecimento em HTML, CSS, JavaScript, PHP, MySQL, Laravel, CodeIgniter. Apaixonado por desenvolvimento!
+</div>
 
 <h2 align="center" >⚡Skills⚡</h2>
 
