@@ -4,12 +4,14 @@
 
 Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas e startups. Conhecimento em HTML, CSS, JavaScript, PHP, MySQL, Laravel, CodeIgniter. Apaixonado por desenvolvimento!
 
-| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrecoPeres&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GrecoPeres&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=049feb&fire=049feb&currStreakNum=fff&sideNums=049feb&currStreakLabel=049feb&sideLabels=fff&dates=fff) |
-| :-: | :-: |
+<h2 align="center" >⚡Skills⚡</h2>
 
 <div align="center" >
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,typescript" />
 </div>
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrecoPeres&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GrecoPeres&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=049feb&fire=049feb&currStreakNum=fff&sideNums=049feb&currStreakLabel=049feb&sideLabels=fff&dates=fff) |
+| :-: | :-: |
 
 <div>
    	<a href="https://github.com/GrecoPeres">
