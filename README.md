@@ -26,7 +26,7 @@ Desenvolvedor front-end criativo com mais de 3 anos de experiência em empresas 
 ##
 
 <div>
-     <a href="https://grecoweb.com.br" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
+     <a href="https://my-portfolio-greco.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" target="_blank"></a>
      <a href="https://www.linkedin.com/in/greco-fernando-873038207" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   	 <a href="https://www.instagram.com/grecoperes" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   	 <a href = "mailto:grecofernando.mp@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
