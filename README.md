@@ -5,7 +5,7 @@
 </h1>
 
 <div align="center">
-Desenvolvedor front-end criativo com mais de 4 anos de experiência em empresas e startups. Conhecimento em HTML, CSS, JavaScript, PHP, MySQL, Laravel, CodeIgniter, React.JS e Next.JS. Apaixonado por desenvolvimento!
+Desenvolvedor front-end criativo com mais de 4 anos de experiência em empresas e startups. Conhecimento em HTML, CSS, JavaScript, PHP, MySQL, Laravel, CodeIgniter, React.JS, React Native e Next.JS. Apaixonado por desenvolvimento!
 </div>
 
 <h2 align="center" >⚡Skills⚡</h2>
