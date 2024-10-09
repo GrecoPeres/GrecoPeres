@@ -18,9 +18,15 @@ Desenvolvedor front-end criativo com mais de 4 anos de experiência em empresas 
 | :-: | :-: |
 
 <div>
-   	<a href="https://github.com/GrecoPeres">
+   	<!--<a href="https://github.com/GrecoPeres">
 	<img height="180em" src="https://github-readme-stats.vercel.app/api?username=GrecoPeres&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrecoPeres&layout=compact&hide_border=true&title_color=00b8e4&text_color=00b8e4&bg_color=0d1117" />
+	<img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GrecoPeres&layout=compact&hide_border=true&title_color=00b8e4&text_color=00b8e4&bg_color=0d1117" />-->
+
+ ## 📈 Github stats
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrecoPeres&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GrecoPeres&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=6bbbca&fire=6bbbca&currStreakNum=fff&sideNums=6bbbca&currStreakLabel=6bbbca&sideLabels=fff&dates=fff) |
+| :-: | :-: |
+
+![](https://github-readme-activity-graph.vercel.app/graph?username=GrecoPeres&theme=react-dark)
 </div>
   
 ##
