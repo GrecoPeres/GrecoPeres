@@ -11,7 +11,7 @@ Desenvolvedor front-end criativo com mais de 4 anos de experiência em empresas 
 <h2 align="center" >⚡Skills⚡</h2>
 
 <div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,vscode,github,figma,tailwind,git,typescript,next,php,mysql" />
+  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,vscode,github,figma,tailwind,git,typescript,next,flutter,php,mysql" />
 </div>
 
 | ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=GrecoPeres&theme=dark) | ![](https://github-readme-streak-stats.herokuapp.com/?user=GrecoPeres&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=151515&stroke=2D3742&ring=049feb&fire=049feb&currStreakNum=fff&sideNums=049feb&currStreakLabel=049feb&sideLabels=fff&dates=fff) |
