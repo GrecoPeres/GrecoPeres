@@ -1,7 +1,7 @@
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=120&color=3F5FF0)
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Meu+nome+é+Greco!;Tenho+23+anos;Moro+em+Barretos+SP;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Olá!+👋;+Meu+nome+é+Greco!;Tenho+24+anos;Moro+em+Barretos+SP;" />
 </h1>
 
 <div align="center">
