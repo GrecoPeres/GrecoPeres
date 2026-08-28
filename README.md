@@ -37,7 +37,7 @@ Desenvolvedor front-end criativo com mais de 5 anos de experiência em empresas 
 <div align="center">
 <br>
 <p align="centre"><b>Contagem de Visitantes</b></p>  
-<p align="center"><img align="center" src="https://profile-counter.glitch.me/{GrecoPeres}/count.svg" /></p> 
+<p align="center">![Badge](https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2FGrecoPeres&label=Contagem+de+Visitantes&icon=github&color=%23198754&message=&style=for-the-badge&tz=Brazil%2FEast)</p> 
 <br>
 </div>
 
